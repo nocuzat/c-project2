@@ -1,0 +1,6 @@
+C:\Users\Thulani\Desktop\c#\questiontwo\questiontwo\bin\Debug\questiontwo.exe.config
+C:\Users\Thulani\Desktop\c#\questiontwo\questiontwo\bin\Debug\questiontwo.exe
+C:\Users\Thulani\Desktop\c#\questiontwo\questiontwo\bin\Debug\questiontwo.pdb
+C:\Users\Thulani\Desktop\c#\questiontwo\questiontwo\obj\Debug\questiontwo.csprojResolveAssemblyReference.cache
+C:\Users\Thulani\Desktop\c#\questiontwo\questiontwo\obj\Debug\questiontwo.exe
+C:\Users\Thulani\Desktop\c#\questiontwo\questiontwo\obj\Debug\questiontwo.pdb
